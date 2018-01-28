@@ -7,8 +7,9 @@ def readme():
 setup(name='py_tradetracker',
       version='0.1',
       description='Python3 Tradetracker products feed and SOAP webservices script',
+      long_description=readme(),      
       url='https://bitbucket.org/tvdsluijs/py_tradetracker',
-      author='Theodorus van der Sluijs',
+      author='Theo van der Sluijs',
       author_email='theo@vandersluijs.nl',
       license='CC BY-NC-SA 4.0',
       classifiers=[
