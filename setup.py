@@ -18,7 +18,7 @@ setup(name='py_tradetracker',
           'Programming Language :: Python :: 3.4',
           'Programming Language :: Python :: 3.5',
         ],
-      keywords='trains transport train dutch ns',
+      keywords='tradetracker affiliate sites',
       packages=['py_tradetracker'],
       install_requires=[
           'xmltodict',
